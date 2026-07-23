@@ -1,6 +1,6 @@
 // 환경의학 기출 PWA service worker — 오프라인 캐싱
 // 앱을 수정해 새로 배포할 때는 아래 CACHE 버전 숫자만 올리면 됩니다 (예: v1 -> v2).
-const CACHE = 'hwankyung-v5';
+const CACHE = 'hwankyung-v6';
 const ASSETS = [
   './',
   './index.html',
